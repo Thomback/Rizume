@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{5b82982f-9372-480c-b72d-4c59c20f56b0}">
+		<property name="assetPath">
+			<value>ES_The Kill - Particle House.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>182.208</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{63eb3a32-0ef4-42b8-905d-a229ee2c4ebd}</destination>
+		</relationship>
+	</object>
+</objects>

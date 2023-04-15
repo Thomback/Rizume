@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e6fc02e2-f83b-4a7f-b2a1-a1518ededf3e}">
+		<property name="assetPath">
+			<value>ES_Any Other Way - Particle House.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>208.17599999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{63eb3a32-0ef4-42b8-905d-a229ee2c4ebd}</destination>
+		</relationship>
+	</object>
+</objects>
